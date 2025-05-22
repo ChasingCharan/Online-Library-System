@@ -1,12 +1,48 @@
-# React + Vite
+# 📚 Online Library System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web application built with **React** and **Redux** to manage a collection of books. Users can browse books by category, search by title/author, view detailed information, and add new books to the library.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> Coming soon...
 
-## Expanding the ESLint configuration
+## 🔗 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[https://github.com/ChasingCharan/Online-Library-System](https://github.com/ChasingCharan/Online-Library-System)
+
+---
+
+## ✨ Features
+
+- 🧾 Browse all books
+- 🔍 Search by title or author
+- 📂 Filter books by category
+- ➕ Add a new book with form validation
+- 🚦 State management using Redux
+- 🔁 Dynamic routing with React Router
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/ChasingCharan/Online-Library-System.git
+cd Online-Library-System
+```
+
+2. **Install dependencies**
+
+```bash
+npm install
+
+```
+
+3. **Start the development server**
+
+```bash
+npm start
+
+```
+
